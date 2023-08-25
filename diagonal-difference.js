@@ -23,22 +23,3 @@ for (let i = 0; i < arr.length; i++) {
 
 output.difference = output.sumrtl - output.sumltr
 console.log(output)
-
-// i 0
-// j 0
-
-// i 1
-// j 1
-
-// i 2
-// j 2
-
-
-// 0
-// 2
-
-// 1
-// 1
-
-// 2
-// 0
